@@ -1,0 +1,1 @@
+Odin project readme file and learning how to commit it to the github repository.
